@@ -8,7 +8,7 @@ Scripts and files used as part of this study are organised into the following di
 Includes scripts and files used to classify variants into low and intermediate level heteroplasmic and homoplasmic variants based on variant level or variant allele frequency (VAF) information. 
 These scripts also count the number of variantas in each category and calculate the total heteroplasmic burden per individual. 
 
-## 2. Assiciation models 
+## 2. Association models 
 Includes scripts and files used to run negative binomial regression models. Using these models, we aimed to identify the variables influencing heteriplasmic burden. 
 These scripts also include multiple testing correction using FDR-correction methods. 
 
